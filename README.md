@@ -49,3 +49,19 @@ Spring Security
 Swagger
 JavaMail
 Thymeleaf (for email templates)
+
+Getting Started
+
+Clone the repository:
+Copygit clone https://github.com/your-username/saas-springboot-project.git
+
+Build the project:
+Copy./gradlew build
+
+Run the application:
+Copy./gradlew bootRun
+
+Access the application at http://localhost:8080/ and the Swagger documentation at http://localhost:8080/swagger-ui.html.
+
+Contribution
+If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. Contributions are welcome!
